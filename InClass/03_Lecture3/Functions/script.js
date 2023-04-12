@@ -41,9 +41,9 @@ let sumExpression = function(a,b) {
     return a + b;
 }
 
-let res1 = sum(1,2);
+let res1 = sum(1,2);                //3
 
-let res2 = sumExpression(1, 3)
+let res2 = sumExpression(1, 3)      //3
 
 console.log(res1, res1);
 
